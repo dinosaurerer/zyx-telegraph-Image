@@ -1,4 +1,4 @@
-#  CF-Telegraph-DigitalPlat 图床系统
+#  CF-Telegrapm-DigitalPlat 图床系统
 
 <div align="center">
     <img src="https://img.shields.io/badge/Storage-Cloudflare_R2-ff69b4" alt="Cloudflare R2存储"/>
